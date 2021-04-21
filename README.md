@@ -1,4 +1,4 @@
-#CloseMe
+# CloseMe
 
 An application to kill unwanted applications. By default, it is set up to
 scan your running applications list each 5 seconds and kill the ones on  
@@ -20,7 +20,7 @@ from [https://www.python.org/](https://www.python.org) .
 ### Download the software
 
 You can download it
-from [this git depository](https://github.com/cGIfl300/).
+from [this git depository](https://github.com/cGIfl300/CloseMe).
 
 ### Installing a venv
 
@@ -39,5 +39,5 @@ or for Microsoft Windows users:
 To install the required libs use:  
 `pip install -r requirements.txt`  
 
-##Use  
+## Use  
 python main.py
